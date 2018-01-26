@@ -1,0 +1,27 @@
+"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+"0                                                                                                                                                    0",
+"0                                                                                                                                                    0",
+"0                                                                                                                                                    0",
+"0                                                                                                                                                    0",
+"0                                                                                                                                                    0",
+"0                                                                             bkkkkkkkkkkkkkkkke                                                     0",
+"0                                                                       r                                                                            0",
+"0                                                                      rr                                                                            0",
+"0                                                                     rrr                                                                            0",
+"0                    bkkke                                           rrrr                                                                            0",
+"0                                      t0                           rrrrr                                                                            0",
+"0G                                     y0              t0          rrrrrr                                                                            0",
+"0           d    g       d             n0              n0         rrrrrrr                                                                            0",
+"GGGGGGGGGGGGGGGGGGGGGGGGGGGGZGGGGGGGGGGGGGGZGGGGGGGGGGZGGGGGGGGGGGGGGGGGGGGGGZGGGGGGZGGGGGGGGGGGZGGGGGZGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
+"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGZGGGGGGGGGGGGGGGGGGGGGGZGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
+"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
+
+ground - "G"
+ground with liana - "Z"
+rock - "r"
+kaktus - "g"
+start platform - "b"
+end platform - "e"
+middle of platform - "k"
+column: top - "t", middle - "y", bottom - "n"
+flower - "d"
